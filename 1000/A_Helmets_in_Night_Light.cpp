@@ -33,6 +33,7 @@ void solve(){
         }else{
             long long rem = n - total;
             ans += cost * rem;
+            total = n;
             break;
         }
     }
