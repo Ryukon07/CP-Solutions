@@ -39,7 +39,7 @@ void solve(){
 
     for(ll i = 2; i <= ops; i++){
         sub = (sub * i) % MOD;
-    }
+    }   
 
     std::cout << ops << " " << sub << "\n";
 
