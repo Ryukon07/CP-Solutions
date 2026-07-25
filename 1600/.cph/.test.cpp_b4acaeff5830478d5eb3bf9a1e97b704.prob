@@ -1,0 +1,1 @@
+{"name":"Local: test","url":"/home/goms/Desktop/CP-Solutions/1600/test.cpp","tests":[{"id":1784965246785,"input":"5 4 3\nash rope oil ash\n1 ash\n4 rope\n7 oil\n10 ash\n11 rope","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/goms/Desktop/CP-Solutions/1600/test.cpp","group":"local","local":true}
