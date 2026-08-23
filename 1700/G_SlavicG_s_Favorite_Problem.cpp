@@ -43,7 +43,6 @@ void solve(){
 
     if(check) std::cout << "YES\n";
     else std::cout << "NO\n";
-
 }
 
 int main(){
