@@ -65,9 +65,7 @@ void solve(){
         for(auto [x, y] : ans) std::cout << x << " " << y << "\n";
         return;
     }
-
     std::cout << "NO\n";
-
 }
 
 int main(){
